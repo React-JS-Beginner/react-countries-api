@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-JS-Beginner/react-countries-api/static/css/main.9d4749c5.chunk.css",
+    "main.js": "/React-JS-Beginner/react-countries-api/static/js/main.7968fc5e.chunk.js",
+    "main.js.map": "/React-JS-Beginner/react-countries-api/static/js/main.7968fc5e.chunk.js.map",
+    "runtime-main.js": "/React-JS-Beginner/react-countries-api/static/js/runtime-main.7c91556e.js",
+    "runtime-main.js.map": "/React-JS-Beginner/react-countries-api/static/js/runtime-main.7c91556e.js.map",
+    "static/js/2.87327544.chunk.js": "/React-JS-Beginner/react-countries-api/static/js/2.87327544.chunk.js",
+    "static/js/2.87327544.chunk.js.map": "/React-JS-Beginner/react-countries-api/static/js/2.87327544.chunk.js.map",
+    "static/js/3.89b058fc.chunk.js": "/React-JS-Beginner/react-countries-api/static/js/3.89b058fc.chunk.js",
+    "static/js/3.89b058fc.chunk.js.map": "/React-JS-Beginner/react-countries-api/static/js/3.89b058fc.chunk.js.map",
+    "index.html": "/React-JS-Beginner/react-countries-api/index.html",
+    "static/css/main.9d4749c5.chunk.css.map": "/React-JS-Beginner/react-countries-api/static/css/main.9d4749c5.chunk.css.map",
+    "static/js/2.87327544.chunk.js.LICENSE.txt": "/React-JS-Beginner/react-countries-api/static/js/2.87327544.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c91556e.js",
+    "static/js/2.87327544.chunk.js",
+    "static/css/main.9d4749c5.chunk.css",
+    "static/js/main.7968fc5e.chunk.js"
+  ]
+}
